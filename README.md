@@ -1,2 +1,1 @@
-# Windows-Scroll-Event
-Mousewheel Event Javascript
+# Scroll Event for Mousewheel(To Control)
